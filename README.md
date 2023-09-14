@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, We Are YANZ DIGITAL</h1>
-<h3 align="center">Platform Digital Product Premium & Best Quality</h3>
+<h3 align="center">Premium Digital Product Platform with the Best Quality</h3>
 <img align="right" alt="store" width="400" src="https://github.com/YANZDIGITAL/YANZDIGITAL/blob/main/Logo.png">
 - 🔭 I’m currently working on **DWR PROJECT**
 
