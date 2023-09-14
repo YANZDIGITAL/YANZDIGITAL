@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We Are YANZ DIGITAL</h1>
 <h3 align="center">Platform Digital Product Premium & Best Quality</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2928551--2-5-Horeca-Gif-Icon-Store&psig=AOvVaw2z2OOGvd-A5z4zhf3QEVmx&ust=1694778741403000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCQ9YGFqoEDFQAAAAAdAAAAABAE">
+<img align="right" alt="store" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2928551--2-5-Horeca-Gif-Icon-Store&psig=AOvVaw2z2OOGvd-A5z4zhf3QEVmx&ust=1694778741403000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCQ9YGFqoEDFQAAAAAdAAAAABAE](https://cdn.dribbble.com/users/21663/screenshots/2928551/media/e22a8db85d4bf53be57e1c0523f48645.gif)">
 - 🔭 I’m currently working on **DWR PROJECT**
 
 - 🌱 I’m currently learning **Account Specialist**
