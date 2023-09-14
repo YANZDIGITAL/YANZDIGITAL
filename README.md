@@ -1,4 +1,4 @@
-https://github.com/YANZDIGITAL/YANZDIGITAL/blob/main/Logo.png
+![logo](https://github.com/YANZDIGITAL/YANZDIGITAL/blob/main/Logo.png)
 <h1 align="center">Hi 👋, We Are YANZ DIGITAL</h1>
 <h3 align="center">Platform Digital Product Premium & Best Quality</h3>
 <img align="right" alt="store" width="400" src="https://cdn.dribbble.com/users/21663/screenshots/2928551/media/e22a8db85d4bf53be57e1c0523f48645.gif)">
